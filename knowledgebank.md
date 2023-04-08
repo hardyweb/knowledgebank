@@ -132,6 +132,10 @@ Master PC - neovim --listen 192.168.1.1:6666 (--headless)
 
 On Other Pc - neovim --server 192.168.1.1:6666 --remote-ui
 
+## ChromeOS ( Laravel Programming Workflow using neovim)
+
+<https://www.youtube.com/watch?v=Hx-sqWoq5y8>
+
 
 
 
