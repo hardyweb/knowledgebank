@@ -60,7 +60,7 @@ https://github.com/spaceship-prompt/spaceship-prompt
 
 ## Neovim Motion 
 
-Untuk bergerak secara ventrikal, boleh tekan nombor dan j, dan 
+Untuk bergerak secara vertikal, boleh tekan nombor dan j, dan 
 untuk ke tiap-tiap perkataan tekan F, sama dengan tekan ctrl+w
 
 ## git amend 
