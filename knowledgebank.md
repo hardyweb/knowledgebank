@@ -1,4 +1,4 @@
-# Knowladge Bank 
+# Knowledge Bank 
 
 ## Compile Neovim 
 
