@@ -121,8 +121,16 @@ Neovim 0.9 dan telescope ada masalah sikit pada normaFloat dan menu float, warna
 tambah tiga baris kod dalam init.lua
 
 vim.api.nvim_set_hl(0,"NormalFloat",{bg="none",ctermbg="none"})
+
 vim.api.nvim_set_hl(0,"Normal",{bg="none",ctermbg="none"})
+
 vim.api.nvim_set_hl(0,"Pmenu",{bg="#5E5C5B",ctermbg="#B4FF00"})
+
+## Neovim 9 remote  
+
+Master PC - neovim --listen 192.168.1.1:6666 (--headless)
+
+On Other Pc - neovim --server 192.168.1.1:6666 --remote-ui
 
 
 
