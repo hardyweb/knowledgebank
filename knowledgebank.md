@@ -107,6 +107,24 @@ ssh -o StrictHostKeyChecking=no -o UserKnowHostsFile=/dev/null -i
 
 also can run php artisan ser ( --host 0.0.0.0 )
 
-##
+## ffmpeg SRT 
+
+ffmpeg -fflags +genpts -re -i Movie/ceramah_agama.mp4 -filter:v  fps=fps=30  -codec:v libx264 -preset ultrafast -tune 
+zerolatency -flags2 local_header -codec:a libmp3lame -pkt_size 1316 -flush_packets 0 -f mpegts 'srt://0.0.0.0:9500?mode=listener
+
+ffplay srt://0.0.0.0:9500
+
+## Neovim nightly 0.9 colorscheme workaround
+
+Neovim 0.9 dan telescope ada masalah sikit pada normaFloat dan menu float, warna latabelakang akan jadi warna pink
+
+tambah tiga baris kod dalam init.lua
+
+vim.api.nvim_set_hl(0,"NormalFloat",{bg="none",ctermbg="none"})
+vim.api.nvim_set_hl(0,"Normal",{bg="none",ctermbg="none"})
+vim.api.nvim_set_hl(0,"Pmenu",{bg="#5E5C5B",ctermbg="#B4FF00"})
+
+
+
 
 

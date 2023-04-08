@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/hardyweb/Documents/Artikel/knowledgebank/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+Cipta Terminal dalam Neovim	knowledgebank.md	/^## Cipta Terminal dalam Neovim $/;"	s	chapter:Knowladge Bank
+Compile Neovim	knowledgebank.md	/^## Compile Neovim $/;"	s	chapter:Knowladge Bank
+Knowladge Bank	knowledgebank.md	/^# Knowladge Bank $/;"	c
+Neovim Motion	knowledgebank.md	/^## Neovim Motion $/;"	s	chapter:Knowladge Bank
+Neovim indent	knowledgebank.md	/^## Neovim indent $/;"	s	chapter:Knowladge Bank
+Neovim motion	knowledgebank.md	/^## Neovim motion $/;"	s	chapter:Knowladge Bank
+Neovim nightly 0.9 colorscheme workaround	knowledgebank.md	/^## Neovim nightly 0.9 colorscheme workaround$/;"	s	chapter:Knowladge Bank
+Neovim remote edit	knowledgebank.md	/^## Neovim remote edit $/;"	s	chapter:Knowladge Bank
+OBS mkv x264 output video to ffmpeg mkv av1 (svt-av1) video	knowledgebank.md	/^## OBS mkv x264 output video to ffmpeg mkv av1 (svt-av1) video$/;"	s	chapter:Knowladge Bank
+Vagrant ssh alternative	knowledgebank.md	/^## Vagrant ssh alternative$/;"	s	chapter:Knowladge Bank
+ffmpeg SRT	knowledgebank.md	/^## ffmpeg SRT $/;"	s	chapter:Knowladge Bank
+git amend	knowledgebank.md	/^## git amend $/;"	s	chapter:Knowladge Bank
+git squash	knowledgebank.md	/^## git squash $/;"	s	chapter:Knowladge Bank
+laravel build in php artisan serve	knowledgebank.md	/^## laravel build in php artisan serve $/;"	s	chapter:Knowladge Bank
+zsh Shell	knowledgebank.md	/^## zsh Shell$/;"	s	chapter:Knowladge Bank
